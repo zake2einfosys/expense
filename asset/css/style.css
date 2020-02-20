@@ -1,0 +1,49 @@
+.main{
+	margin-top: 30px;
+	width: 34%;
+	margin-left: 33%;
+	margin-bottom: 200px;
+}
+.formclass{
+	margin: 20px;
+}
+
+.invitefriend{
+	margin-top: 30px;
+	width: 80%;
+	margin-left: 10%;
+	margin-bottom: 200px;
+}
+
+.expense_friends{
+
+}
+
+.btn-circle {
+	width: 30px;
+	height: 30px;
+	padding: 6px 0px;
+	border-radius: 15px;
+	text-align: center;
+	font-size: 12px;
+	line-height: 1.42857;
+}
+
+
+@media only screen and (max-width: 1000px) {
+	.main{
+		margin-top: 30px;
+		width: 50%;
+		margin-left: 40%;
+		margin-bottom: 200px;
+	}
+}
+
+@media only screen and (max-width: 700px) {
+	.main{
+		margin-top: 30px;
+		width: 90%;
+		margin-left: 5%;
+		margin-bottom: 200px;
+	}
+}
